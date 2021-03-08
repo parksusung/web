@@ -99,8 +99,3 @@
 ![관리사 글 수정및 삭제가능](https://user-images.githubusercontent.com/78811229/110273826-c6ea2d80-8010-11eb-9555-1e8ab9e2b4da.PNG)
 
 
-
-
-0273753-9bffd980-8010-11eb-8283-50289efe97e2.PNG)
-
-229/110273744-94d8cb80-8010-11eb-9bce-34cb637c2629.PNG)
