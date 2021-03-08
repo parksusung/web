@@ -46,24 +46,31 @@
 
 
 
-7. 관리자권한이 없으면 글쓰기및 수정 불가능 
+7. 관리자권한이 없으면 공지사항게시판에 글쓰기및 수정 불가능 
 
 
 
-![일반회원은 공지사항게시판권한없음 보기만가능](https://user-images.githubusercontent.com/788110273753-9bffd980-8010-11eb-8283-50289efe97e2.PNG)
-
-8.일반게시판
-
-
-
-
-
-![일반게시판](https://user-images.githubusercontent.com/78811229/11229/110273744-94d8cb80-8010-11eb-9bce-34cb637c2629.PNG)
+![일반회원은 공지사항게시판권한없음 보기만가능](https://user-images.githubusercontent.com/78811229/110274234-b1293800-8011-11eb-90ca-df7626483f32.PNG)
 
 
 
 
-9. 게시판작성 및 수정
+8. 일반 게시판 
+
+
+
+
+![일반게시판](https://user-images.githubusercontent.com/78811229/110274236-b25a6500-8011-11eb-8ee4-42ffd59144d6.PNG)
+
+
+
+
+
+
+
+
+
+9. 게시판작성 및 수정및 삭제가능 
 
 
 
