@@ -1,4 +1,4 @@
-학교 텀프로젝트로 제작한 것입니다 JSP, HTML , CSS 사용   백엔드로는 MYSQL    서버는 TOMCAT
+학교 텀프로젝트로 제작한 것입니다 프론트앤드 JSP, HTML , CSS 사용   백엔드로는 MYSQL    서버는 TOMCAT
 
 1.메인화면 
 
